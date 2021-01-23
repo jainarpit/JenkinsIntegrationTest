@@ -1,0 +1,3 @@
+00:15:51.708 [main] INFO  com.Company.SampleLogging - Helloo!! I am info
+00:15:51.710 [main] INFO  com.Company.SampleLogging - from Main
+00:15:51.710 [main] ERROR com.Company.SampleLogging - login failed
